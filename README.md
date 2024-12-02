@@ -4,7 +4,7 @@
 ---
 <div align ="center">
 <h1>
-  Who Am I? 🧙‍♂️
+  Who Am I? 
 </h1>
 </div>
 <br>
@@ -18,7 +18,7 @@
 💻 **Role**: Developer | Analyst | ML Enthusiast  <br>
 📍 **Location**: Navigating the data streams, transcending walls  <br>
 
-I am a **Business Analyst**, a data explorer, and a tech enthusiast walking the fine line between code and creativity. Fueled by **Machine Learning (ML)**, **Artificial Intelligence (AI)**, and **Generative AI (GenAI)**, my goal is to **decode reality and craft the future**.
+I am a **Data Scientist**, a data explorer, and a tech enthusiast walking the fine line between code and creativity. Fueled by **Machine Learning (ML)**, **Artificial Intelligence (AI)**, and **Generative AI (GenAI)**, my goal is to **decode reality and craft the future**.
 
 ---
 
@@ -39,26 +39,28 @@ I am a **Business Analyst**, a data explorer, and a tech enthusiast walking the 
 | **Project Name**                      | **Description**                                                                                      | **Tech Stack**                      |
 |---------------------------------------|------------------------------------------------------------------------------------------------------|--------------------------------------|
 | **Matrix Forecaster 📊**              | A time-series forecasting model predicting demand for furniture sales.                               | Python, Machine Learning            |
-| **Neo Optimization 🛡️**              | Designed a structural optimization model for bunker walls to minimize costs and maximize stability.  | MATLAB, Mixed-Integer Programming   |
-| **Supply Chain Architect ⚙️**         | ML-powered decision-making model for supply chain optimization in the steel industry.               | Python, Scikit-learn, Pandas        |
+| **Cold Mail Generator 🛡️**              | Used Gen-AI Power to make cold emails for job application through job portal  | Llama 3.2, ChromaDB   |
+| **Supply Chain Architect ⚙️**         | ML-powered decision-making model for supply chain optimization in the steel industry.               | Python, Scikit-learn,Pulp        |
 | **Digital Sentinel 🌐**               | Visualized insights from complex datasets using Tableau and Seaborn for enhanced decision-making.   | Tableau, Python                     |
-| **Knuckle Joint Redesign 🔩**         | Conducted ANSYS analysis and optimized mechanical designs for enhanced joint performance.            | ANSYS, CFD Simulations              |
+| **Disease Predicting Through Images**         | Used Transfer Learning and CNN to predict the disease through images            | Keras,TensorFlow, CNN, ResNet                |
 
 ---
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbml5c2RlN2o5YW0wejhpdXB5OGQ5b2w0YmphYW5heHIwOXFhM2tiZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SUcnmocyRKkfSil9xd/giphy.gif" width="800">
+
 
 ## **Why GenAI is the Key to the Matrix** 🔑  
 **Generative AI** is the architect’s tool for designing the next revolution. I envision a future where GenAI powers industries through automation, predictive systems, and intelligent decision-making.  
 
 ### **Applications I'm Exploring**:  
-- Automating demand forecasting with GenAI  
-- Creating predictive maintenance systems for industrial equipment  
-- Enhancing supply chain optimization with intelligent simulations  
+- Auto-Taloring resume to according to the job required.
+- Video generator through few shot learning 
+- Trend predictor for clothing
 - Building interpretable models for smarter decisions  
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif?cid=790b7611x9bff1t4s3l5e7450auq8fmu5dapjuj6c05u6j48&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Matrix Trinity" width="600">
+  <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif?cid=790b7611x9bff1t4s3l5e7450auq8fmu5dapjuj6c05u6j48&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Matrix Trinity" width="600">  
 </div>
 
 ---
@@ -67,7 +69,7 @@ I am a **Business Analyst**, a data explorer, and a tech enthusiast walking the 
 
 | **Contact**            | **Details**                                            |
 |-------------------------|--------------------------------------------------------|
-| **📧 Email**           | [vipul.singh@example.com](mailto:vipul.singh@example.com) |
+| **📧 Email**           | [vipulsingh8634@gmail.com](mailto:vipulsingh8634@gmail.com) |
 | **🔗 LinkedIn**        | [Vipul Singh](https://www.linkedin.com/in/vipul-singh) |
 | **🌐 Portfolio**       | *Coming Soon!*                                         |
 
